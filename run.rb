@@ -15,6 +15,3 @@ require_relative "./models/clown"
 # krusty.fears = "Children"
 # krusty.fears
 # => "Failure"
-
-binding.pry
-"pls"
